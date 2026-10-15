@@ -5,7 +5,7 @@ public class Main {
         Scanner entrada = new Scanner(System.in);
 
         System.out.println("========================================");
-        System.out.println("          LA SALLE - GRACIA");
+        System.out.println("          DEVELOPER 01");
         System.out.println("             NUMEROS EN ORDEN");
         System.out.println("========================================");
         System.out.println("Introduce tres numeros y los mostraremos");
